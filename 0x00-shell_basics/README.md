@@ -1,1 +1,1 @@
-display directory content with user id (also displays hidden files)
+directory named my_first_directory in the /tmp/ directory.
